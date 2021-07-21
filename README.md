@@ -38,7 +38,7 @@ $ bash remove-banner.sh
 ### To Remove Login
 * `Commands` for DNloginbanner
 ```
-$ cd T-Remix
+$ cd DNloginbanner
 
 $ ls
 
