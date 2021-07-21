@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by DNReporters with love ------- SUBSCRIBE my channel DNReporters
+echo "  Made by DNReporters ------- SUBSCRIBE my channel DNReporters
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
